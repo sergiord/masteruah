@@ -14,7 +14,7 @@ o también "cursiva"
 1. Un enlace a [Google](http://www.google.com)
 1. Una imagen:
 
-![Texto de la imagen] (https://cdn.20m.es/img2/recortes/2017/07/01/502764-600-338.jpg)
+![Atleeeetiii](https://cdn.20m.es/img2/recortes/2017/07/01/502764-600-338.jpg)
 
 ## Tabla
 
