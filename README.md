@@ -1,2 +1,1 @@
-# masteruah
-master
+# Repositorio del Máster de UAH
